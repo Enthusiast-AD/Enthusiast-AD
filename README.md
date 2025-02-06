@@ -44,8 +44,8 @@ Feel free to check out my progress and solutions on [LeetCode](https://leetcode.
 ## 📫 How to Reach Me
 
 You can connect with me via:
-- **Email:** [your-email@example.com](mailto:freelanceradavailable@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ansh-deep-004840337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [freelancer-AD](mailto:freelanceradavailable@gmail.com)
+- **LinkedIn:** [Ansh Deep](https://www.linkedin.com/in/ansh-deep-004840337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## ⚡ Fun Fact
 
