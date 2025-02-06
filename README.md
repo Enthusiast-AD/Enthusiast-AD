@@ -45,7 +45,7 @@ Feel free to check out my progress and solutions on [LeetCode]((https://leetcode
 
 You can connect with me via:
 - **Email:** [freelancer-AD](freelanceradavailable@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ansh-deep)
+- **LinkedIn:** [Ansh Deep](https://www.linkedin.com/in/ansh-deep)
 
 ## ⚡ Fun Fact
 
