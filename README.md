@@ -1,54 +1,128 @@
-# Hi there, I'm Enthusiast-AD 👋
+# Hi there, I'm ANSH DEEP (Enthusiast-AD) 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and problem solver, constantly learning and exploring new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate full-stack developer and AI enthusiast who loves solving complex problems and building innovative solutions. Currently diving deep into Data Structures & Algorithms while exploring the fascinating world of AI and machine learning.
 
-## 🔭 What I'm Currently Working On
+## 🚀 About Me
 
-I am currently diving deep into Data Structures and Algorithms (DSA) using C++. Solving problems on LeetCode is a part of my daily routine as I aim to sharpen my coding skills and improve my problem-solving abilities.
+- 🔭 **Currently Working On**: Data Structures & Algorithms using C++, AI/ML projects, and full-stack web development
+- 🌱 **Learning**: Advanced algorithms, AI/ML techniques, and modern web technologies
+- 💡 **Interests**: Artificial Intelligence, Web Development, Mental Health Tech, and Problem Solving
+- 📊 **Daily Routine**: Solving LeetCode problems to sharpen my coding skills
+- 🎯 **Goal**: Building impactful software solutions that make a difference
 
-## 🌱 Languages and Technologies
+## 🛠️ Tech Stack
 
-Here are some of the languages and technologies I have learned and worked with:
-
-### Languages:
-<p>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/></a>
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### Frontend:
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="40"/></a>
+### Frontend Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Backend:
-<p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/></a>
+### Backend & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Database:
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/></a>
+### AI/ML & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
 </p>
 
-## 📈 My LeetCode Profile
+## 🏆 Featured Projects
 
-Feel free to check out my progress and solutions on <a href="https://leetcode.com/u/ADRP" target="_blank">LeetCode</a>.
+### 🧠 Mental Health & AI
+- **Mental Health Platform**: AI-powered mood tracking and crisis intervention system
+- **Agentic AI**: Advanced AI agents using LangChain and LangGraph
+- **Mood Tracker**: Real-time sentiment analysis and mental health monitoring
 
-## 📫 How to Reach Me
+### 🌐 Web Development
+- **Portfolio Website**: Personal portfolio showcasing my work and skills
+- **Orbina**: Full-stack web application with modern React architecture
+- **Weather Pro**: Interactive weather application with location-based features
 
-You can connect with me via:
-- **Email:** <a href="mailto:freelanceradavailable@gmail.com" target="_blank">freelancer-AD</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/ansh-deep-004840337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Ansh Deep</a>
+### 📚 Educational Projects
+- **DSA Journey**: Comprehensive Data Structures and Algorithms implementations
+- **React Learning**: Educational projects and component libraries
+- **Python OOP**: Object-oriented programming concepts and implementations
 
-## ⚡ Fun Fact
+## 📈 GitHub Stats
 
-When I'm not coding, you can find me exploring new tech trends, reading books, or playing video games.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enthusiast-AD&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
-Thank you for visiting my profile! Have a great day! 😊
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enthusiast-AD&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enthusiast-AD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🎯 Current Focus
+
+```cpp
+class Developer {
+    public:
+        string name = "ANSH DEEP";
+        vector<string> currentFocus = {
+            "Data Structures & Algorithms",
+            "LeetCode Problem Solving",
+            "AI/ML Development",
+            "Full-Stack Web Development",
+            "Mental Health Tech Solutions"
+        };
+        
+        void dailyRoutine() {
+            solveLeetCodeProblems();
+            buildAIProjects();
+            contributeToOpenSource();
+            learnNewTechnologies();
+        }
+};
+```
+
+## 🌟 What I'm Learning
+
+- Advanced Data Structures and Algorithms
+- AI/ML model development and deployment
+- Modern web development practices
+- System design and architecture
+- Open source contribution
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Enthusiast-AD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:anshdeep00.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enthusiast-AD&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/Enthusiast-AD">Enthusiast-AD</a> - Building the future, one commit at a time!</i>
+</div>
