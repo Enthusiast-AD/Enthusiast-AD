@@ -371,8 +371,6 @@ Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
 <summary><b>📈 Contribution Graph (Click to expand)</b></summary>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enthusiast-AD&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enthusiast-AD&theme=tokyonight)
 
 </details>
