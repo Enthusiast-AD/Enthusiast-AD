@@ -1,4 +1,4 @@
-# Hi there, I'm Anshdeep 👋
+# Hi there, I'm Ansh Deep 👋
 
 I'm a developer building practical tools at the intersection of **AI and web development**.  I believe in creating applications that solve real problems with clean code and thoughtful design.
 
@@ -54,7 +54,7 @@ DevOps:     Docker • Git • Vercel • Google Cloud Platform • CI/CD
 
 I'm always open to collaborating on projects involving **AI agents**, **full-stack web apps**, or **developer tools**. 
 
-📧 **Email:** anshdeep00. dev@gmail.com  
+📧 **Email:** anshdeep00.dev@gmail.com  
 💼 **GitHub:** [@Enthusiast-AD](https://github.com/Enthusiast-AD)
 
 ---
