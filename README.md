@@ -74,19 +74,11 @@ I write about the things that actually confused me — because clean documentati
 
 **Languages** — TypeScript · JavaScript · Python · Java
 
-**Frontend** — React · React Native · Next.js · Tailwind CSS · Framer Motion · Redux
+**Frontend** — React · Next.js · Tailwind CSS · Framer Motion · Redux
 
 **Backend** — Node.js · Express · FastAPI
 
 **Databases** — PostgreSQL · MySQL · MongoDB · Redis
 
-**Tools** — Git · Docker · Figma · Expo
+**Tools** — Git · Docker · Figma 
 
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enthusiast-ad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff" />
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enthusiast-ad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e" />
-
-</div>
